@@ -27,7 +27,7 @@ public class MainForTruck {
                 .mileage(540000)
                 .build();
         Truck truck4 = Truck.builder()
-                .model("Scania")
+                .model("Toyota")
                 .year(2011)
                 .mileage(680000)
                 .build();
